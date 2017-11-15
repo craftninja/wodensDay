@@ -1,0 +1,185 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (watercolorBag.AI)
+%%BoundingBox: 575 767 3583 3508
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 0 0 0 0
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Default) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M []0 d
+0 D
+900.0000 3472.3241 m
+900.0000 2626.2756 L
+1548.0000 2626.2756 L
+1548.0000 3472.3241 L
+900.0000 3472.3241 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M []0 d
+0 D
+1440.0000 1921.2352 m
+1440.0000 2006.6709 1405.0854 2087.4565 1343.9050 2146.7443 c
+1282.7754 2205.9828 1200.9077 2238.5033 1116.0000 2238.5033 c
+1031.0960 2238.5033 949.2317 2205.9856 888.1028 2146.7518 c
+826.9176 2087.4635 792.0000 2006.6747 792.0000 1921.2352 c
+792.0000 1835.7994 826.9146 1755.0139 888.0950 1695.7260 c
+949.2246 1636.4875 1031.0923 1603.9670 1116.0000 1603.9670 c
+1200.9040 1603.9670 1282.7683 1636.4847 1343.8972 1695.7185 c
+1405.0824 1755.0069 1440.0000 1835.7956 1440.0000 1921.2352 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M []0 d
+0 D
+3150.0000 1674.4710 m
+3582.0000 1674.4710 L
+3582.0000 2097.4953 L
+3150.0000 2097.4953 L
+3150.0000 1674.4710 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M []0 d
+0 D
+1440.0000 2132.7473 m
+3582.0000 2132.7473 L
+3582.0000 2203.2513 L
+1440.0000 2203.2513 L
+1440.0000 2132.7473 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M []0 d
+0 D
+1584.0000 2238.5033 m
+3582.0000 2238.5033 L
+3582.0000 3507.5761 L
+1584.0000 3507.5761 L
+1584.0000 2238.5033 L
+s
+LB
+%AI5_EndLayer--
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 255 0 0 Lb
+(Layer 01) Ln
+0 A
+0 R
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+1422.0000 1921.2352 m
+1422.0000 2001.9245 1389.0251 2078.2219 1331.2436 2134.2160 c
+1273.5101 2190.1635 1196.1906 2220.8773 1116.0000 2220.8773 c
+1035.8129 2220.8773 958.4966 2190.1662 900.7638 2134.2231 c
+842.9778 2078.2285 810.0000 2001.9281 810.0000 1921.2352 c
+810.0000 1840.5458 842.9749 1764.2484 900.7564 1708.2543 c
+958.4899 1652.3068 1035.8094 1621.5930 1116.0000 1621.5930 c
+1196.1871 1621.5930 1273.5034 1652.3041 1331.2362 1708.2472 c
+1389.0222 1764.2418 1422.0000 1840.5422 1422.0000 1921.2352 C
+s
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+3168.0000 2097.4953 m
+3168.0000 1692.0970 L
+3564.0000 1692.0970 L
+3564.0000 2097.4953 L
+S
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+1602.0000 3454.6981 m
+3564.0000 3454.6981 L
+S
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+1458.0000 2150.3733 m
+3564.0000 2150.3733 L
+3564.0000 2185.6253 L
+1458.0000 2185.6253 L
+1458.0000 2150.3733 L
+s
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+1548.0000 3454.6981 m
+900.0000 3454.6981 L
+S
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+1548.0000 2643.9016 m
+900.0000 2643.9016 L
+S
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+2394.0000 2820.1617 m
+2394.0000 2414.7635 L
+2790.0000 2414.7635 L
+2790.0000 2820.1617 L
+S
+1.0000 0.0000 0.0000 XA
+1.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 0.0003 w 4 M [14.1732 14.1732 ]0 d
+0 D
+1602.0000 2256.1294 m
+3564.0000 2256.1294 L
+3564.0000 3489.9501 L
+1602.0000 3489.9501 L
+1602.0000 2256.1294 L
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
